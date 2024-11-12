@@ -1,0 +1,38 @@
+*{
+    margin:0px
+}
+body{
+    background-color: rgb(28, 0, 129);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+.part1{
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+}
+.part2{
+    margin-left:550px ;
+    margin-bottom: 10px;
+}
+.part3{
+    margin-left:543px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.part4{
+    margin-left:550px;
+    margin-bottom: 10px;
+}
+.part5{
+    margin-left: 550px;
+    margin-bottom: 10px;
+}
+.part6{
+    margin-left: 550px;
+    margin-bottom: 10px;
+}
+.part7{
+    text-align: center;
+}
